@@ -92,6 +92,9 @@ Sarrah Vesselov is a UX professional, speaker, and author with over 10 years of 
 
 * JS
 
-### Research Project: Bringing it all together
+## Week six: Research Project: Bringing it all together
+* Review and wrap-up
+
+* Class presentations
 
 
