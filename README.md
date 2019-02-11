@@ -60,6 +60,7 @@ Sarrah Vesselov is a UX professional, speaker, and author with over 10 years of 
 
 
 ## Week three: UX Basics - Methods/when/why/how
+**Instruction:**
 * User Flows
 
 * Wireframes & Mockups
@@ -67,6 +68,7 @@ Sarrah Vesselov is a UX professional, speaker, and author with over 10 years of 
 * Testing selection
 
 ## Week four: Visual Design
+**Instruction:**
 * Foundational knowledge
 
   ** Grid/spacing
@@ -82,6 +84,7 @@ Sarrah Vesselov is a UX professional, speaker, and author with over 10 years of 
 
 
 ## Week five: UI Development - overview as it pertains to UX
+**Instruction:**
 * Git / intro to git/GitLab or Github
 
 * HTML
@@ -93,6 +96,7 @@ Sarrah Vesselov is a UX professional, speaker, and author with over 10 years of 
 * JS
 
 ## Week six: Research Project: Bringing it all together
+**Instruction:**
 * Review and wrap-up
 
 * Class presentations
