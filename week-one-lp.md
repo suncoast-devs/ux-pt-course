@@ -53,13 +53,25 @@ Christoph Meinel and Harry Leifer of the Hasso-Plattner-Institute of Design at S
 
 1. **The tangibility rule** - Prototypes make ideas tangible. Designers can communicate more effectively using prototypes.
 
+### Phases in the Design Thinking Process
+(*add image)
 
+**Empathize**
 
+Know and understand the user. Observe, engage, understand.
 
+**Define**
 
+Define the problem using findings from the empathy phase. 
 
+**Ideate**
 
+Start forming solutions using ideation techniques (brainstorming, mind-mapping, etc.) Narrow the field down to a few ideas with which to move forward.
 
+**Prototype**
 
+Turn these ideas into something tangible. This phase is all about experimenting and letting go as you learn what works, and what doesn't work.
 
+**Test**
 
+This phase goes hand in hand with prototyping. User testing with prototypes will give answers that may lead you right back to creating new prototypes. 
