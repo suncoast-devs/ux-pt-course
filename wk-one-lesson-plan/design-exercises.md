@@ -31,3 +31,8 @@ Design an Audiobook or Podcasting mobile app that is highly personal, highly int
 **Constraint:** All suggested technologies need to exist, or have the ability to realistically exist within the next 6 months.
 
 
+# Calendar for a Traveling Salesperson
+
+Valentina leads sales and business development for a Fortune 500 company. She travels 3 out of 4 weeks in the month, and when she travels, it’s almost always internationally. Between all her travel to different timezones and a busy meeting schedule in different cities, she finds it challenging to keep up with her calendar to show up to the right places at the right time. Design a calendar flow and interface that is smart enough to suggest meeting times, accounts for changing time zones, and is proactively working for Valentina to make sure she is always on time for her meetings.
+
+**Constraint:** Solution has to be mobile-friendly and has to use viable technologies from today.

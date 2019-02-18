@@ -77,3 +77,7 @@ Turn these ideas into something tangible. This phase is all about experimenting 
 This phase goes hand in hand with prototyping. User testing with prototypes will give answers that may lead you right back to creating new prototypes. 
 
 **Conduct 90-minute design thinking challenge**
+
+**Lab Activity / Take Home:** Using the techniques reviewed in the first class and today, develop personas and/or user journeys for the users of your product. Ideate on the design problem chosen in the first week.
+
+**Optional Homework:** Write about your biggest challenges this week. Were you surprised by anything you learned? 
