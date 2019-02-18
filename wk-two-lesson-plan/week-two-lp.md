@@ -42,6 +42,10 @@ Resource link: https://www.usability.gov/how-to-and-tools/methods/online-surveys
 
 ### Usability testing
 
+Test a product or design with users to evaluate the effectiveness of the proposed solution. Participants attempt to complete a task or series of tasks while obervers watch and listen. Usability testing will help highlight usability problems and allow you to collect quantitative/qualitative data on user interactions. 
+
+**How it works:** To run an effective test, you must have a solid plan in place for testing, recruiting participants, and analyzing the findings. You can conduct usability testing at nearly any stage of design. You can conduct testing on one particular feature or across an entire application.
+
 ### User Interviews
 
 ### User Journeys
