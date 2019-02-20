@@ -29,6 +29,21 @@ https://www.nngroup.com/articles/ideation-in-practice/
 
 ## Prototyping
 
+A prototype is an interactive simulation of an interface. It can be as rudimentary as a piece of paper or as sophisticated as a coded interface.
+
+Prototypes are not the final solution. The purpose of a prototype is to simulate and test how users will interact with a solution. 
+
+**Prototype techniques:**
+
+*Paper sketches:* Paper sketches are great for early-stage testing. They are easy to produce and allow you to check assumptions and validate requirements. They become less useful as a project progresses.
+
+*Wireframes:* More detailed than sketches but not as high-fidelity as coded prototypes. Wireframes focus on the interaction and flow rather than the look of the interface.
+
+*Coded prototypes:* These working models are close to the final look and feel. They gauge both the practical and aesthetic viability of a solution.
+
+Resource link:
+https://uxplanet.org/basics-of-prototyping-1a4106e12c0e
+
 ## UX research methods 
 There are many methods available for conducting research and gathering data. The methods listed below represent a baseline toolkit for conducting research.
 
@@ -65,7 +80,6 @@ User flows differ from user journeys. User flows are a visualization of the path
 The purpose of a user flow is to understand the paths users take through a product. In the early design stages, it helps designers understand the solution and to explain the solution to others. When examining an existing flow, it can highlight opportunities to improve the overall flow.
 
 **How it works:** If you are working on improving an existing solution, start with a user flow. User flows can also take many forms. You may begin by creating one on a whiteboard or using sticky notes while in a meeting. The final flow should take digital form. Sketch is an excellent tool for creating these flows.
-
 
 ### Personas
 
@@ -114,6 +128,7 @@ Test a product or design with users to evaluate the effectiveness of the propose
 
 Resource link:
 https://www.usability.gov/how-to-and-tools/methods/usability-testing.html
+https://www.interaction-design.org/literature/topics/ideation
 
 
 **Lab Activity / Take Home:** Activity: Using the techniques reviewed in the first class and today, develop personas and/or user journeys for the users of your product. Ideate on the design problem chosen in the first week.
