@@ -1,5 +1,7 @@
 # Week Three
 
+**Activity:** Review personas and user journeys, answer questions and give feedback.
+
 ## Tools
 
 ### Sketch

@@ -1,6 +1,6 @@
 # Week Two
 
-**Activity:** Review Impact Canvases and answer questions.
+**Activity:** Review Impact Canvases and answer questions and give feedback.
 
 ## The importance of empathy
 
