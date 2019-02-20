@@ -1,6 +1,8 @@
 # Week Four
 
-**Activity:** Review wireframes and user flows, answer questions and give feedback. 
+## Review
+
+Review wireframes and user flows, answer questions and give feedback. 
 
 Look back at the work you have done so far and answer the following questions:
 

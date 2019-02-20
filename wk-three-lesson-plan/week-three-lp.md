@@ -22,7 +22,7 @@ Link: https://www.sketchapp.com/
 1. Print design
 1. Collaboration
 
-Activity (1 hour): 
+**Activity (1 hour):**
 
 1. Set up a free trial of Sketch (if you do not alreay have it). https://www.sketchapp.com/docs/getting-started/
 
@@ -48,7 +48,7 @@ Link: https://www.figma.com/
 
 1. Print design
 
-Activity (1 hour): 
+**Activity (1 hour):** 
 
 1. Set up a free trial of Figma (if you do not alreay have it). https://www.figma.com/
 
