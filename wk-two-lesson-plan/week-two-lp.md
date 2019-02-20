@@ -4,6 +4,29 @@
 
 ## Ideation
 
+Ideation is merely the formation of ideas or concepts. In the context of design, ideation is the term we use for the creative process of generating ideas together. This process can take the form of group or individual brainstorming. Whether you start on your own or within a group, there are some important things to keep in mind:
+
+**Keep an open mind:** Ideation requires a judgment-free zone. All participants must feel safe to share their wildest and worst ideas. The focus is not on finding the RIGHT solution; the focus is on surfacing all the POSSIBLE solutions.
+
+**Don't start with ideation:** Ideation should only come after you have **empathized** with your users and **defined ** the problem.
+
+**Have the right environment:**Make sure you have a clearly articulated problem to inspire and guide the ideation. *Example: How can we make checking accounts accessible for low-income people groups?* Have personas and any other materials readily available during the session.
+
+**Maintain structure:**Set a time-limit and designate a facilitator. Eliminate distractions and discourage side-conversations or unrelated tangents. 
+
+**Ideation techniques:**
+
+*Brainstorming:* Everyone throws out their wildest ideas and the group builds off of them. If done on your own, this is called "Braindumping." If members write them down first and bring them to the meeting, it is called "BrainWriting."
+
+*Worst Idea:* The opposite of throwing out your best or wildest ideas. The focus here is to produce the worst possible ideas first. This technique loosens the group and makes people more comfortable with contributing to the session.
+
+*Mindmapping:* Drawing out the connections between the problem and connecting ideas.
+
+*Crowdstorming:*  Use social media (or other avenues) to target an audience for idea generation and validation.
+
+Resource link: 
+https://www.nngroup.com/articles/ideation-in-practice/
+
 ## Prototyping
 
 ## UX research methods 
