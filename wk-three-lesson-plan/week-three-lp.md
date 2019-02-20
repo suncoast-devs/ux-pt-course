@@ -94,3 +94,5 @@ Link: https://www.framer.com/
 Marvel is similar to Framer in that it offers design and prototyping. 
 
 Link: https://marvelapp.com/
+
+**Lab Activity / Take Home:** Using the design tool of your choice, create wireframes for the intended user flow.
