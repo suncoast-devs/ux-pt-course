@@ -28,7 +28,7 @@ Grid systems allow you to arrange content in a predictable, scalable way. Grids 
 
 Grids consist of equal sized columns separated by margins. Content can be placed in one or more of the columns.
 
-**Activity:** Open up Sketch and create artboards with different grid layouts. 
+**Activity:** Open up Sketch and walk the class through the creation of artboards with different **grid layouts**. 
 
 **Helpful Links:** 
 
@@ -37,8 +37,6 @@ Grids consist of equal sized columns separated by margins. Content can be placed
 *Rule of thirds:*https://www.interaction-design.org/literature/article/the-rule-of-thirds-know-your-layout-sweet-spots
 
 ## Typography
-
-## Layout
 
 ## Color Theory
 
