@@ -1,5 +1,7 @@
 # Week Two
 
+**Activity:** Review Impact Canvases and answer questions.
+
 ## The importance of empathy
 
 Empathy is perhaps the most critical factor in the UX process. Without the ability to understand a unique users context, goals, emotions, and motivations, we cannot be sure we are creating a solution they can use. 
