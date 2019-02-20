@@ -1,6 +1,6 @@
 # Week Two
 
-**Activity:** Review Impact Canvases and answer questions and give feedback.
+**Activity:** Review Impact Canvases, answer questions and give feedback.
 
 ## The importance of empathy
 
@@ -31,9 +31,9 @@ Ideation is merely the formation of ideas or concepts. In the context of design,
 
 **Don't start with ideation:** Ideation should only come after you have **empathized** with your users and **defined ** the problem.
 
-**Have the right environment:**Make sure you have a clearly articulated problem to inspire and guide the ideation. *Example: How can we make checking accounts accessible for low-income people groups?* Have personas and any other materials readily available during the session.
+**Have the right environment:** Make sure you have a clearly articulated problem to inspire and guide the ideation. *Example: How can we make checking accounts accessible for low-income people groups?* Have personas and any other materials readily available during the session.
 
-**Maintain structure:**Set a time-limit and designate a facilitator. Eliminate distractions and discourage side-conversations or unrelated tangents. 
+**Maintain structure:** Set a time-limit and designate a facilitator. Eliminate distractions and discourage side-conversations or unrelated tangents. 
 
 **Ideation techniques:**
 
@@ -75,6 +75,8 @@ User interviews are typically conducted at the beginning, or in the early stages
 
 Resource link:
 https://www.usability.gov/how-to-and-tools/methods/individual-interviews.html
+
+https://www.invisionapp.com/inside-design/asking-right-questions/
 
 
 ### Contextual Interviews
