@@ -2,6 +2,25 @@
 
 ## The importance of empathy
 
+Empathy is perhaps the most critical factor in the UX process. Without the ability to understand a unique users context, goals, emotions, and motivations, we cannot be sure we are creating a solution they can use. 
+
+It is common for people to create solutions by thinking about what THEY need or want. We assume that our motivations, needs, and goals are common and shared.
+
+Empathy for designers does not mean placing yourself in someone else's shoes and experiencing the world as they do. Doing so is difficult and not easily communicated to others in your organization. Empathy means taking the time to carry out proper user research and using it to guide your decisions.
+
+Empathy can be challenging to maintain, and it takes practice. Conducting empathy exercises will help you to increase your empathic understanding. 
+
+**High and Lows:**
+*How often:* Daily or weekly.
+
+*How to do it:* Share one high and one low with the rest of the team. These high's and low's could be personal or professional. Share in a stand-up or a group chat. The goal here is to see people differently. Hearing about their lives and seeing a different side of them will help you to empathize with others.
+
+**Emotion check**
+
+*How often:* Several times a Day.
+
+*How to do it:* Set a timer for yourself, have it go off at set intervals. When the timer goes off, answer these questions in a journal: What is your mood? Why are you feeling this way? That's it. It takes just a couple of minutes and helps you to get in touch with your emotions throughout the day.
+
 ## Ideation
 
 Ideation is merely the formation of ideas or concepts. In the context of design, ideation is the term we use for the creative process of generating ideas together. This process can take the form of group or individual brainstorming. Whether you start on your own or within a group, there are some important things to keep in mind:
