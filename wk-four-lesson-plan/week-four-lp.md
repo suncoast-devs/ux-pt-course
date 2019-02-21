@@ -82,11 +82,11 @@ Choosing typefaces can be overwhelming. Keep these rules in mind when choosing:
 
 (add examples of serif fonts)
 
-*Sans-serif fonts are considered to be more modern than serif fonts. 
+* Sans-serif fonts are considered to be more modern than serif fonts. 
 
 (add examples of sans-serif fonts)
 
-*Pairing complimentary fonts can make your content more comfortable to read. If you aren't sure how to pair fonts, tools like Font Pair will give you recommendations.
+* Pairing complimentary fonts can make your content more comfortable to read. If you aren't sure how to pair fonts, tools like Font Pair will give you recommendations.
 
 (add examples of font-pairings)
 
