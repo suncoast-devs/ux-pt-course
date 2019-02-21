@@ -124,5 +124,7 @@ https://www.invisionapp.com/inside-design/color-accessibility-product-design/
 Resource link:
 https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/
 
+**Lab Activity / Take Home:** Create a high-fidelity mockup of one of your wireframes.
+
  
 
