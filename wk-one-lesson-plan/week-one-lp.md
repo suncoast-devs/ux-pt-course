@@ -78,6 +78,10 @@ This phase goes hand in hand with prototyping. User testing with prototypes will
 
 **Conduct 90-minute design thinking challenge**
 
+**Impact Canvas:** Review the impact canvas with the class.
+
+
+
 **Lab Activity / Take Home:** Using the techniques reviewed in the first class and today, develop personas and/or user journeys for the users of your product. Ideate on the design problem chosen in the first week.
 
 **Optional Homework:** Write about your biggest challenges this week. Were you surprised by anything you learned? 
