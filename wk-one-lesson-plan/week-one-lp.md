@@ -76,6 +76,7 @@ Turn these ideas into something tangible. This phase is all about experimenting 
 
 This phase goes hand in hand with prototyping. User testing with prototypes will give answers that may lead you right back to creating new prototypes. 
 
+# Mob activity
 **Conduct 90-minute design thinking challenge**
 
 # Impact Canvas
