@@ -88,3 +88,5 @@ Review this short video to understand the benefits of using an impact canvas to 
 **Lab Activity / Take Home:** Choose a different design problem and create an impact canvas to think through the problem.
 
 **Optional Homework:** Write about your biggest challenges this week. Were you surprised by anything you learned? 
+
+**Gather emails to send materials and resource links from this week**
